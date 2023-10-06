@@ -1,4 +1,5 @@
 {
+	"name": "custom-top-bar",
 	"require": {
 		"custom-top-bar": "master"
 	}
