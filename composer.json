@@ -1,3 +1,5 @@
-"require": {
-    "custom-top-bar": "master"
+{
+	"require": {
+		"custom-top-bar": "master"
+	}
 }
